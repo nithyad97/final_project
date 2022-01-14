@@ -1,7 +1,7 @@
-baseURL = "https://example.org/"
-languageCode = "en-u"
-title = "My New Hugo Site"
-theme= "hugotheme"
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme= 'hugotheme'
 
 
 
@@ -15,8 +15,6 @@ pygmentsCodeFences=true
   main = "Hi, I'm Nithya"
   sub = "I'm a Student"
 
-[params.main]
-  latestPublishHeader = "This Website is My Latest Job"
 
 [taxonomies]
   design = "designs"
