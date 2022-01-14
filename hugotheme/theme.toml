@@ -8,7 +8,7 @@ description = "Personal Web is a simple Hugo template to build a personal websit
 homepage = "https://personal-web-example.netlify.com/"
 tags = ["portfolio", "blog", "post", "personal", "freelancer", "developer"]
 features = []
-min_version = "0.41"
+min_version = "0.92.0"
 
 [author]
   name = "Baptiste Jacquemet"
