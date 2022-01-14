@@ -1,2 +1,2 @@
 [context.deploy-preview.environment]
-HUGO_VERSION ="O.92.0"
+HUGO_VERSION ="0.92.0"
