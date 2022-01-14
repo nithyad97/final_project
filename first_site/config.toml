@@ -1,7 +1,7 @@
 baseURL = "https://example.org/"
 languageCode = "en-u"
 title = "My New Hugo Site"
-theme= "personal-web-master"
+theme= "hugotheme"
 
 
 
