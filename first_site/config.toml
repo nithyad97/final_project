@@ -15,6 +15,8 @@ pygmentsCodeFences=true
   main = "Hi, I'm Nithya"
   sub = "I'm a Student"
 
+[params.main]
+  latestPublishHeader = "This Website is My Latest Job"
 
 [taxonomies]
   design = "designs"
